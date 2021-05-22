@@ -1,0 +1,17 @@
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Api.deps.json
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Api.runtimeconfig.json
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Api.runtimeconfig.dev.json
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Api.dll
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.csprojAssemblyReference.cache
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.csproj.CoreCompileInputs.cache
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.RazorAssemblyInfo.cache
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.RazorAssemblyInfo.cs
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.AssemblyInfoInputs.cache
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.AssemblyInfo.cs
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Api.pdb
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.dll
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.pdb
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.dll
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.pdb
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Api\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Api.csproj.CopyComplete

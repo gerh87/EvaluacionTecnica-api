@@ -1,0 +1,12 @@
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.deps.json
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.dll
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.csprojAssemblyReference.cache
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.AssemblyInfoInputs.cache
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.AssemblyInfo.cs
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\bin\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.pdb
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.csproj.CopyComplete
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.dll
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.Repository\obj\Debug\netcoreapp2.1\EvaluacionTecnica.Repository.pdb

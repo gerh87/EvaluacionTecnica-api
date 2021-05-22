@@ -1,0 +1,6 @@
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.DataBase\bin\Debug\EvaluacionTecnica.DataBase.dacpac
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.DataBase\bin\Debug\EvaluacionTecnica.DataBase.dll
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.DataBase\bin\Debug\EvaluacionTecnica.DataBase.pdb
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.DataBase\obj\Debug\EvaluacionTecnica.DataBase.sqlprojAssemblyReference.cache
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.DataBase\obj\Debug\EvaluacionTecnica.DataBase.dll
+C:\Users\Herters\source\repos\EvaluacionTecnica\EvaluacionTecnica.DataBase\obj\Debug\EvaluacionTecnica.DataBase.pdb
