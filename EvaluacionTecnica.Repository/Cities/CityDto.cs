@@ -9,5 +9,6 @@ namespace EvaluacionTecnica.Repository.Cities
         public int CityID { get; set; }
         public int CountryID { get; set; }
         public string CityName { get; set; }
+        public string  CountryName { get; set; }
     }
 }

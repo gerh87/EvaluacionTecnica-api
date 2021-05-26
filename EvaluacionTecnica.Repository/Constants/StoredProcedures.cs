@@ -19,5 +19,11 @@ namespace EvaluacionTecnica.Repository.Constants
         public const string SP_UPDATE_CITY = "MVFT_UpdateCity";
         public const string SP_DELETE_CITY = "MVFT_DeleteCity";
         public const string SP_GET_CITY_BY_ID = "MVFT_GetCityById";
+
+        //Historical
+
+        public const string SP_INSERT_HISTORICAL = "MVFT_InsertHistorical";
+        public const string SP_GET_HISTORICAL_BY_CITY = "MVFT_GetHistoricalByCity";
+
     }
 }
