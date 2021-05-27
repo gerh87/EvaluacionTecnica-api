@@ -1,0 +1,30 @@
+﻿USE [MVFEvaluacionTecnicaPH]
+GO
+
+CREATE TABLE Countries (
+   CountryID INT PRIMARY KEY IDENTITY(1,1),
+   CountryName VARCHAR(30)
+)
+GO
+CREATE TABLE Cities (
+	CityID INT PRIMARY KEY IDENTITY(1,1),
+	CountryID INT NOT NULL,
+	CityName VARCHAR(30)
+)
+GO
+CREATE TABLE Historical (
+	HistoricalID INT PRIMARY KEY IDENTITY(1,1),
+	CityID INT NOT NULL,
+	Temperature DECIMAL(6,1),
+	ThermalSensation DECIMAL(6,1),
+	CreateDate DATETIME2
+)
+GO
+
+ALTER TABLE Cities 
+ADD FOREIGN KEY (CountryID) REFERENCES Countries(CountryID)
+GO
+
+ALTER TABLE Historical
+ADD FOREIGN KEY (CityID) REFERENCES Cities(CityID) 
+GO
