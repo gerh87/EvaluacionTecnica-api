@@ -56,5 +56,25 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="Create Tables" />
+    <Folder Include="Stored Procedures" />
+    <Folder Include="Stored Procedures\Cities" />
+    <Folder Include="Stored Procedures\Countries" />
+    <Folder Include="Stored Procedures\Historical" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Create Tables\Create_Tables.sql" />
+    <None Include="Stored Procedures\Cities\MVFT_InsertCiy.sql" />
+    <None Include="Stored Procedures\Cities\MVFT_UpdateCity.sql" />
+    <None Include="Stored Procedures\Cities\MVFT_DeleteCity.sql" />
+    <None Include="Stored Procedures\Cities\MVFT_GetAllCities.sql" />
+    <None Include="Stored Procedures\Countries\MVFT_GetAllCountries.sql" />
+    <None Include="Stored Procedures\Countries\MVFT_DeleteCountry.sql" />
+    <None Include="Stored Procedures\Countries\MVFT_GetCountryById.sql" />
+    <None Include="Stored Procedures\Cities\MVFT_GetCityById.sql" />
+    <None Include="Stored Procedures\Countries\MVFT_InsertCountry.sql" />
+    <None Include="Stored Procedures\Countries\MVFT_UpdateCountry.sql" />
+    <None Include="Stored Procedures\Historical\MVFT_InsertHistorical.sql" />
+    <None Include="Stored Procedures\Historical\MVFT_GetHistoricalByCity.sql" />
   </ItemGroup>
 </Project>
